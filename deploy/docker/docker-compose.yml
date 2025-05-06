@@ -1,6 +1,6 @@
 # Use for running an Appsmith, during development.
 
-version: "3"
+# version: 'x.x' 
 
 services:
   appsmith:
